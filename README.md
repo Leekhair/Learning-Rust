@@ -12,3 +12,6 @@ A playground for me to learn about rust
 
   ## Terminal Calculator
   A calculator that works completely in the terminal
+
+  ## Tempurature Converter
+  Convert Farenheit and Celcius

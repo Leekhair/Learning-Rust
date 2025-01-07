@@ -18,10 +18,10 @@ fn main() {
     let name = name.trim();
 
     match name {
-        "Aron" => println!("Aron's favourite food is Sushi"),
-        "Liam" => println!("Liam's favourite food is Pizza"),
-        "Matteo" => println!("Matteo's favourite food is Pizza"),
-        "Jonathan" => println!("Jonathan's favourite food is Nocciola Flavoured Greek Yogurt"),
+        "Alexander" => println!("Aron's favourite food is Sushi"),
+        "William" => println!("Liam's favourite food is Pizza"),
+        "Mateo" => println!("Matteo's favourite food is Pizza"),
+        "John" => println!("Jonathan's favourite food is Nocciola Flavoured Greek Yogurt"),
         _ => println!("I don't know their favourite food"),  // Default case
     }
 }
